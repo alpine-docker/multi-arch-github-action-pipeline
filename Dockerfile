@@ -1,3 +1,3 @@
 FROM alpine
 
-LABEL ozbillwang
+LABEL maintainer=ozbillwang
